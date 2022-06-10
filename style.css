@@ -53,12 +53,14 @@ h3 {
   border-color: #ff5d5d !important;
   box-shadow: #ff0000 0px 0px 0px 0.25rem !important;
   text-align: center !important;
+  color: #fafafa !important;
 }
 .btn-primary2 {
   background-color: #ffab5d !important;
   border-color: #ffab5d !important;
   box-shadow: #ff6f00 0px 0px 0px 0.25rem !important;
   text-align: center !important;
+  color: #fafafa !important;
 }
 .btn-primary3 {
   background-color: #ecff5d !important;
@@ -71,24 +73,28 @@ h3 {
   border-color: #00d512 !important;
   box-shadow: #0a9c00 0px 0px 0px 0.25rem !important;
   text-align: center !important;
+  color: #fafafa !important;
 }
 .btn-primary5 {
   background-color: #5da6ff !important;
   border-color: #5da6ff !important;
   box-shadow: #0015ff 0px 0px 0px 0.25rem !important;
   text-align: center !important;
+  color: #fafafa !important;
 }
 .btn-primary6 {
   background-color: #e15dff !important;
   border-color: #e15dff !important;
   box-shadow: #bb00ff 0px 0px 0px 0.25rem !important;
   text-align: center !important;
+  color: #fafafa !important;
 }
 .btn-primary7 {
   background-color: #a3a2a2 !important;
   border-color: #a3a2a2 !important;
   box-shadow: #000000 0px 0px 0px 0.25rem !important;
   text-align: center !important;
+  color: #fafafa !important;
 }
 .titleimage {
   color: #000;
@@ -144,7 +150,7 @@ h3 {
 }
 
 .color-letra {
-  color: #fafafa !important;
+  color: #000000 !important;
 }
 .h2{
   text-align: center;
