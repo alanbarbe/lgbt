@@ -1,0 +1,179 @@
+.background {
+  background-image: url("Fondo.jpg");
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+}
+.nav-link {
+  color: #000 !important;
+  transition: all ease-in-out 0.3s;
+}
+.nav-link:hover {
+  font-size: 17px;
+  transition: all ease-in-out 0.3s;
+}
+.font {
+  font-size: 17px;
+  font-family: "Helvetica Neue";
+}
+.fonth3 {
+  font-family: "Baskerville";
+}
+h3 {
+  margin: 0 10vw;
+}
+.carousel {
+  width: 50vw;
+  height: 400px;
+  margin-left: calc((100% - 50vw) / 2);
+}
+
+.carousel-control-prev-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23000' viewBox='0 0 8 8'%3E%3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E") !important;
+}
+
+.carousel-control-next-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23000' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E") !important;
+}
+
+.carousel-item > img {
+  cursor: pointer;
+  background-size: cover;
+  height: 400px;
+  width: 100%;
+}
+.carousel-item-mod > img {
+  background-size: unset !important;
+  height: 400px !important;
+  width: auto !important;
+  margin: auto;
+}
+.btn-primary1 {
+  background-color: #ff5d5d !important;
+  border-color: #ff5d5d !important;
+  box-shadow: #ff0000 0px 0px 0px 0.25rem !important;
+  text-align: center !important;
+}
+.btn-primary2 {
+  background-color: #ffab5d !important;
+  border-color: #ffab5d !important;
+  box-shadow: #ff6f00 0px 0px 0px 0.25rem !important;
+  text-align: center !important;
+}
+.btn-primary3 {
+  background-color: #ecff5d !important;
+  border-color: #ecff5d !important;
+  box-shadow: #ffff00 0px 0px 0px 0.25rem !important;
+  text-align: center !important;
+}
+.btn-primary4 {
+  background-color: #00d512 !important;
+  border-color: #00d512 !important;
+  box-shadow: #0a9c00 0px 0px 0px 0.25rem !important;
+  text-align: center !important;
+}
+.btn-primary5 {
+  background-color: #5da6ff !important;
+  border-color: #5da6ff !important;
+  box-shadow: #0015ff 0px 0px 0px 0.25rem !important;
+  text-align: center !important;
+}
+.btn-primary6 {
+  background-color: #e15dff !important;
+  border-color: #e15dff !important;
+  box-shadow: #bb00ff 0px 0px 0px 0.25rem !important;
+  text-align: center !important;
+}
+.btn-primary7 {
+  background-color: #a3a2a2 !important;
+  border-color: #a3a2a2 !important;
+  box-shadow: #000000 0px 0px 0px 0.25rem !important;
+  text-align: center !important;
+}
+.titleimage {
+  color: #000;
+  background-color: #eeeeee50;
+  width: fit-content;
+  margin: auto;
+  backdrop-filter: blur(5px);
+}
+.h1 {
+  text-align: center;
+  font-size: 50px;
+}
+.h3 {
+  text-align: center;
+  font-size: 30px;
+}
+.txt {
+  text-align: center;
+  font-size: 20px;
+}
+.h4 {
+  text-align: center;
+  font-size: 20px;
+}
+
+.letters {
+  display: flex;
+  width: 100%;
+  margin-left: auto;
+  flex-direction: column;
+  align-items: center;
+}
+.letters-item > a,
+.letters-item > button {
+  margin-bottom: 10px !important;
+}
+.letters-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 20px;
+}
+.text {
+  text-align: left;
+}
+.letters-item > a,
+.letters-item > button {
+  font-weight: 700;
+}
+
+.letters-item > .card card-body {
+  opacity: 0.8 !important;
+}
+
+.color-letra {
+  color: #000000 !important;
+}
+.h2{
+  text-align: center;
+  font-size: 40px;
+}
+
+body::-webkit-scrollbar{ 
+  background: transparent !important;
+  background-color: transparent !important;
+  width: 16px; 
+  border-radius: 20px;
+} 
+body::-webkit-scrollbar-track{ 
+  background: transparent !important; 
+  border-radius: 20px;
+} 
+  
+
+body::-webkit-scrollbar-thumb {
+  background-color: transparent !important;
+  background: url("https://upload.wikimedia.org/wikipedia/commons/8/8a/LGBT_Rainbow_Flag.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  background-clip: padding-box;
+  border: 2px solid transparent;
+  border-radius: 20px;
+}
+
+
+
+
