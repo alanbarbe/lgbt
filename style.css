@@ -180,7 +180,17 @@ body::-webkit-scrollbar-thumb {
   border: 2px solid transparent;
   border-radius: 20px;
 }
-
+.logo-cont{
+  width: 100%;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+.logo-cont > .logo{
+  width: 100px;
+  height: 100px;
+  
+} 
 
 
 
