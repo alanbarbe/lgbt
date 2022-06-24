@@ -48,7 +48,7 @@ main {
 
 
 /* ? ----- Cuenta Regresiva ----- */
-#cuenta, #cuenta2 {
+#cuenta, #cuenta2, #cuenta3, #cuenta4 {
 	display: flex;
 	justify-content: center;
 	margin-bottom: 100px;
