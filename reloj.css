@@ -16,7 +16,7 @@ body {
 }
 
 .portada .header {
-	margin-bottom: 100px;
+	margin-bottom: 10px;
 	text-transform: uppercase;
 	letter-spacing: 3px;
 }
@@ -51,7 +51,7 @@ main {
 #cuenta, #cuenta2, #cuenta3, #cuenta4 {
 	display: flex;
 	justify-content: center;
-	margin-bottom: 100px;
+	margin-bottom: 30px;
 }
 
 .simply-section {
