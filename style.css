@@ -40,8 +40,9 @@ h3 {
 .carousel-item > img {
   cursor: pointer;
   background-size: cover;
-  height: 400px;
+  height: 650px;
   width: 100%;
+  margin-bottom: 10px;
 }
 .carousel-item-mod > img {
   background-size: unset !important;
@@ -107,6 +108,7 @@ h3 {
 .h1 {
   text-align: center;
   font-size: 50px;
+  margin-top: 0;
 }
 .h3 {
   text-align: center;
