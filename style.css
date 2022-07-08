@@ -193,3 +193,12 @@ body::-webkit-scrollbar-thumb {
   height: 100px;
   
 } 
+.enviar{
+  margin: 10px;
+  color: rgb(21, 0, 255);
+  background-color: transparent;
+  border-radius: 4px;
+  border-color: #0022ff;
+  width: 70px;
+  height: 40px;
+}
