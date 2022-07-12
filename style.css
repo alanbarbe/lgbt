@@ -3,7 +3,7 @@
   background-position: top center;
   background-size: cover;
   background-repeat: no-repeat;
-  /*height: 100vh*/
+  height: 100vh;
 }
 .nav-link {
   color: #000 !important;
@@ -25,7 +25,7 @@ h3 {
 }
 .carousel {
   width: 50vw;
-  height: 650px;
+  height: fit-content;
   margin-left: calc((100% - 50vw) / 2);
 }
 
@@ -40,14 +40,12 @@ h3 {
 .carousel-item > img {
   cursor: pointer;
   background-size: cover;
-  height: 650px;
+  height: auto;
   width: 100%;
   margin-bottom: 10px;
 }
 .carousel-item-mod > img {
   background-size: unset !important;
-  height: 650px !important;
-  width: auto !important;
   margin: auto;
 }
 .btn-primary1 {
