@@ -23,6 +23,12 @@
 h3 {
   margin: 0 10vw;
 }
+.h2{
+  text-align: center;
+  margin: 16px 0;
+  font-weight: 400;
+  font-size: 20px !important;
+}
 .carousel {
   width: 50vw;
   height: fit-content;
