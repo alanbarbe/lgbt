@@ -2,8 +2,7 @@
   background-image: url("Fondo.jpg");
   background-position: top center;
   background-size: cover;
-  background-repeat: no-repeat;
-  height: 100vh;
+  height: 100%;
 }
 .nav-link {
   color: #000 !important;
